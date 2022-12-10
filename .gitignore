@@ -1,0 +1,10 @@
+
+# AWS credentials
+.crt
+.pem
+.key
+
+
+# Misc
+my_config.py
+.env
